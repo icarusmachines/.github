@@ -2,6 +2,8 @@
 
 Rugged autonomous systems for operational environments.
 
+Austin R&D. Building toward a Costa Rica operating base. Central America first.
+
 Capability before claims.
 
 ## Core Principles
@@ -20,4 +22,4 @@ Capability before claims.
 
 ---
 
-Austin, TX · ops@icarusmachines.com
+ops@icarusmachines.com
