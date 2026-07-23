@@ -16,7 +16,7 @@ Capability before claims.
 
 - Phase 1 — F450 Learning Platform
 - Phase 1.5 — Electromechanical Discipline
-- Phase 2 — LiDAR Integration
+- Phase 2 — LiDAR Survey Platform
 
 ---
 
